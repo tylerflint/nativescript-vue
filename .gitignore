@@ -8,7 +8,7 @@ samples/package-lock.json
 samples/platforms
 samples/hooks/
 test-results.xml
-dist/
+#dist/
 packages/nativescript-vue-template-compiler/index.js
 !docs/dist/
 RELEASE_NOTES*.md
